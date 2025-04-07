@@ -1,5 +1,0 @@
-*.pyc
-__pycache__/
-.env
-config.json
-api_config.json
